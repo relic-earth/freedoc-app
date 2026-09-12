@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "FreeDoc",
+    "slug": "freedoc-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "ios": { "supportsTablet": true, "bundleIdentifier": "world.taa.freedoc" },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0a0f1e",
+        "foregroundImage": "./assets/android-icon-foreground.png"
+      },
+      "package": "world.taa.freedoc"
+    },
+    "web": { "favicon": "./assets/favicon.png" }
+  }
+}
